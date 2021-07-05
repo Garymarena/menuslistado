@@ -1,6 +1,4 @@
-import React, {useState} from 'react';
-import ReactDOM from 'react-dom';
-
+import React, { useState } from "react";
 import Menu from "./Menu";
 import Categories from "./Categories";
 import items from "./data";
@@ -22,8 +20,8 @@ const App = () => {
         </div>
       </section>
     </main>
-  )
-}
+  );
+};
 
 
 export default App;
