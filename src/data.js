@@ -48,3 +48,5 @@ const menu =  [
         desc: `Ravioles`,
     },
 ]; 
+
+export default menu;
