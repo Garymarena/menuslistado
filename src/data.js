@@ -4,7 +4,7 @@ const menu =  [
         tittle: "Huevo con jamon",
         category: "Breakfast",
         price: 45.50,
-        img: '',
+        img: './images/huevos-a-la-mexicana.png',
         desc: `Buebito con jamon y catsum`,
     },
     {
@@ -12,7 +12,7 @@ const menu =  [
         tittle: "Sopa de tortilla",
         category: "Lunch",
         price: 28.66,
-        img: '',
+        img: './images/sopa-tortilla.png',
         desc: `Sopa de tortilla con crema,queso y aguacate`,
     },
     {
@@ -20,7 +20,7 @@ const menu =  [
         tittle: "Steak",
         category: "Steaks",
         price: 566.47,
-        img: '',
+        img: './images/carnes-arrachera-nortena.png',
         desc: `Carne prime choise al termino que desee, con guarniciones`,
     },
     {
@@ -28,7 +28,7 @@ const menu =  [
         tittle: "Ice Cream",
         category: "Dessert",
         price: 45,
-        img: '',
+        img: './images/pastel-chocolate.png',
         desc: `Chocolate ice cream with starberries`,
     },
     {
@@ -36,7 +36,7 @@ const menu =  [
         tittle: "Mojito",
         category: "Drinks",
         price: 67,
-        img: '',
+        img: './images/bebidas-naranjada.png',
         desc: `Tequila and lemon`,
     },
     {
@@ -44,7 +44,7 @@ const menu =  [
         tittle: "Pasta",
         category: "Pastas",
         price: 78,
-        img: '',
+        img: './images/sopa-especial-vips.png',
         desc: `Ravioles`,
     },
 ]; 
